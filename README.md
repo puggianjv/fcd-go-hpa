@@ -1,2 +1,2 @@
 # fcd-go-hpa
-Testing Kubernetes Horizontal Pod Autoscaler
+Testing Kubernetes Horizontal Pod Autoscaler.
